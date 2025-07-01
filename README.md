@@ -42,7 +42,7 @@ Me chamo Nicollas, tenho 24 anos e sou de São Paulo. Atualmente, estou cursando
     title="Power Bi"
     width="20px" 
     style="padding-right: 10px;" 
-    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
+    src="[https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg](https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" 
 />
 
 <br/>
