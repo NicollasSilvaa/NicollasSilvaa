@@ -34,6 +34,14 @@ Me chamo Nicollas, tenho 24 anos e sou de São Paulo. Atualmente, estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Power Bi" 
+    title="Power Bi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
+/>
 
 <br/>
 <br/>
