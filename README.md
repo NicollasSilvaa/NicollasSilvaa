@@ -44,6 +44,22 @@ Me chamo Nicollas, tenho 24 anos e sou de São Paulo. Atualmente, estou cursando
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" 
 />
+<img 
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg" 
+/>
 
 <br/>
 <br/>
