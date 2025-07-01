@@ -4,7 +4,6 @@
 
 Me chamo Nicollas, tenho 24 anos e sou de São Paulo. Atualmente, estou cursando Ciência de Dados na Cruzeiro do Sul. Sou apaixonado por tecnologia e cada dia a mais busco me aprimorar e me especializar para ser um profissional de sucesso.
         />
-        
     </a>
     <a href="https://github.com/NicollasSilvaa/?tab=followers">
         <img 
@@ -14,6 +13,7 @@ Me chamo Nicollas, tenho 24 anos e sou de São Paulo. Atualmente, estou cursando
         />
     </a>
 </p>
+
 
 ---
 
