@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Nicollas Silva
 
-**`Cientista de Dados`**
+**`Analista de Dados`**
 
 Me chamo Nicollas, tenho 24 anos e sou de São Paulo. Atualmente, estou cursando Ciência de Dados na Cruzeiro do Sul. Sou apaixonado por tecnologia e cada dia a mais busco me aprimorar e me especializar para ser um profissional de sucesso.
         />
