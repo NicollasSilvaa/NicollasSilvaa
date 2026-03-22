@@ -60,8 +60,6 @@ Me chamo Nicollas, tenho 25 anos e sou de São Paulo. Atualmente, estou cursando
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg" 
 />
-
-/>
 <img 
     align="left" 
     alt="Javascript" 
@@ -69,6 +67,7 @@ Me chamo Nicollas, tenho 25 anos e sou de São Paulo. Atualmente, estou cursando
     width="20px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" 
+
     
 <br/>
 
