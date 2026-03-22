@@ -64,7 +64,7 @@ Me chamo Nicollas, tenho 25 anos e sou de São Paulo. Atualmente, estou cursando
     align="left" 
     alt="Javascript" 
     title="Javascript"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" 
 />
